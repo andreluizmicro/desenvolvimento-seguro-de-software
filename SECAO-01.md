@@ -1,5 +1,7 @@
 ## Seção 1: Webinar — Como se tornar especialista em Desenvolvimento Seguro de Software
 
+Slides: https://www.slideshare.net/AlcyonJunior/aula-01-curso-gratuito-ead-de-desenvolvimento-seguro-de-software-com-alcyon-junior/AlcyonJunior/aula-01-curso-gratuito-ead-de-desenvolvimento-seguro-de-software-com-alcyon-junior
+
 ### Objetivos
 
 - Reconhecer a tensão entre as exigências do mercado e a segurança.
