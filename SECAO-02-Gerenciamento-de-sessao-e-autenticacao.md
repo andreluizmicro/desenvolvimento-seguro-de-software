@@ -1,4 +1,4 @@
-### Seção 2: Gerenciamento de Sessão e Autenticação
+## Seção 2: Gerenciamento de Sessão e Autenticação
 
 Slides: https://www.slideshare.net/AlcyonJunior/aula-02-curso-gratuito-ead-de-desenvolvimento-seguro-de-software-com-alcyon-junior
 
